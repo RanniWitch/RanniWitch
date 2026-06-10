@@ -1,4 +1,4 @@
-# Saicharan Parthasarathy
+# Sai Parthasarathy
 
 Computer Scientist specializing in Artificial Intelligence, Machine Learning, and Software Engineering.
 
