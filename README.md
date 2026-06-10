@@ -49,4 +49,5 @@ My work focuses on developing intelligent systems, simulation environments, and 
 Machine Learning • Artificial Intelligence • Modeling & Simulation • Aerospace Systems • Defense Technology • Tracking & Estimation Algorithms • Full-Stack Development
 
 I enjoy building projects and exploring new ideas. If you're interested in collaborating, discussing a project, or contributing to one of my ongoing efforts, feel free to connect with me on LinkedIn.
+
 https://www.linkedin.com/in/saicharan-parthasarathy-2855651b0?utm_source=share_via&utm_content=profile&utm_medium=member_ios
